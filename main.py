@@ -7,7 +7,7 @@ client = discord.Client()
 db = sqlite3.connect('data.db')
 cur = db.cursor()
 
-Flen4tag = "<@!4143748608490xx20939>"
+Flen4tag = "<@!414374860849020939>"
 load_dotenv()
 TOKEN = os.getenv('TOKEN')
 
